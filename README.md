@@ -42,4 +42,5 @@
 
 ## ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+This project is for educational purposes
 This project is licensed under the [MIT License](LICENSE).
